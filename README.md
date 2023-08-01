@@ -7,11 +7,19 @@ It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/wavyWallPythonGeometry.git
 cd wavyWallPythonGeometry/case
+```
+1. First way
+```bash
 python wavyWall.py
 mv points0_3.h constant/polyMesh
 mv points4_7.h constant/polyMesh
 blockMesh
 buoyantBoussinesqSimpleFoam
+```
+
+2. Second way
+```bash
+./Allrun
 ```
 
 ## References
