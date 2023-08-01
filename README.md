@@ -2,7 +2,7 @@
 This is a case to create a parametric geometry with m4 written based on foam-extend-4.1.
 
 
-## Installation
+## Getting Started
 It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/wavyWallPythonGeometry.git
