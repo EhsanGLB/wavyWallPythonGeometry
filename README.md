@@ -1,5 +1,5 @@
 # wavyWallPythonGeometry
-This is a case to create a parametric geometry with m4 written based on foam-extend-4.1.
+This is a case to create a wavy wall with python written based on foam-extend-4.1.
 
 
 ## Getting Started
